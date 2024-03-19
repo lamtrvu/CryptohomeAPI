@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bQA6KPXTtLd15EKikKdjD7Ab8iHNnJOZA2iE6h7nhDM=",
+  "Source": "CryptohomeAPI",
+  "BasePath": "_content/CryptohomeAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
